@@ -165,7 +165,7 @@ const numUnfunded = GAMES_JSON.reduce((acc, game) => {return game.pledged < game
 const unfundedString = `There are ${numUnfunded} unfunded games.`
 
 // create a new DOM element containing the template string and append it to the description container
-descriptionContainer.innerHTML= `<p>${unfundedString}</p>`
+descriptionContainer.innerHTML += `<p>${unfundedString}</p>`
 /************************************************************************************
  * Challenge 7: Select & display the top 2 games
  * Skills used: spread operator, destructuring, template literals, sort 

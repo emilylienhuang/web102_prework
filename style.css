@@ -19,6 +19,10 @@ body {
     margin-top: -10px;
 }
 
+.description-container{
+    color: black;
+}
+
 .stats-container {
     display: flex;
     align-items: center;
