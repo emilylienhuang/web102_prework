@@ -17,14 +17,14 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
 I think there is an opportunity to improve the dydamic clicking abilities of the application to look more sleek and modern. Same with the coloring and fonts.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='assets/Demo1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Demo1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
